@@ -1,2 +1,3 @@
-# Arxiu numero 1 de prova
+#Arxiu numero 1 de prova
+# Afegeixo una primera modificaciO
 
